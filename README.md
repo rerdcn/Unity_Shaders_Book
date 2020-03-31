@@ -101,4 +101,6 @@ Unity 2017对Shader部分没有较大更新，我们主要做了以下更改来�
 
 除了上述文件夹外，源码中还包含了一些辅助文件夹，例如Assets/Editor文件夹中包含了一些需要在编辑器状态下运行的脚本，Assets/Prefabs文件夹下包含了各章使用的预设模型和其他常用预设模型等。
 
+Unity2018报错
+Assets/Textures/Chapter10/Cereals.sbsar: Built-in support for Substance Designer materials has been removed from Unity. To continue using Substance Designer materials, you will need to install Allegorithmic's external importer from the Asset Store.
 
